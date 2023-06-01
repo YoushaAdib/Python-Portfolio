@@ -11,4 +11,4 @@ Bank Statement and Bank Ledger reconciliation and automated Self-Audit.
 - [x] Step 2: Conduct an **Outer Merger** on both data frames and write Status (Matched, Not Matched & Not Found). 
 - [x] Step 3: Pre-view the outcome, and export **Self-Audit Report** in .csv format.  
 
-Click here for the [Notebook](https://github.com/YoushaAdib/Python-Portfolio/blob/main/Bank_Reconciliation.ipynb) 
+Click here for the [Notebook](https://github.com/YoushaAdib/Python-Portfolio/blob/main/Bank_Job.ipynb) 
